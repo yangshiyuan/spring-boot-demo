@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: jdbc-cache-app
+
+server:
+  port: 8089
+
